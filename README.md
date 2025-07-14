@@ -1,2 +1,2 @@
-# Mobile-robotics
-A repository containing several projects in the field of autonomous and mobile robotics
+# Geometrical Navigation
+A repository containing a project describing geometrical navigation methods in autonomous robots
